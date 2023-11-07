@@ -1,0 +1,15 @@
+---
+title: "Final Prject Draft"
+format: html
+editor: visual
+---
+
+## Overview:
+
+The overarching goal of this project is to explore potential mechanisms for an increased risk of gastric cancer among *BRCA1* and *BRCA2* pathogenic germline variant (PV) carriers. Herein, we detail one route of exploration involving the use of *BRCA1* and *BRCA2* PV patient-derived gastric organoids (PDGOs). Using PDGOs we look at differences in the number of organoids formed, growth, and morphology between PDGOs generated from *BRCA1* and *BRCA2* PV carriers as well as compared to PDGOs derived from patients without a known gene mutation.
+
+## Introduction:
+
+Breast cancer susceptibility gene one (*BRCA1*) and two (*BRCA2*), are well established tumor suppressor genes that play a pivotal role in promoting homologous recombination in response to DNA damage. Indeed, pathogenic germline variants (PVs) in either of these genes leads to an increase in non-homologous end joining, which can in turn promote genomic instability and tumorigenesis. While *BRCA1*/*2* PV carriers are well established to be at risk for breast and ovarian cancer, there is mounting evidence that *BRCA1/2* PV carriers also have an elevated risk of gastric cancer (GC). Indeed, a recent study, among others, showed a cumulative risk as high as 21.3% for *BRCA1* and 19.3% for *BRCA2* PV carriers by age 85, however this study was performed in a Japanese population where risk of GC is increased at baseline. Importantly, despite this potential increased GC risk, there are currently no recommended GC surveillance guidelines for *BRCA1/2* PV carriers. Furthermore, mechanistic implications of gastric carcinogenesis remain obscure as little to no studies have attempted to explore this in the context of a germline *BRCA1/2* PV.
+
+To begin to elucidate mechanisms associated with GC carcinogenesis in *BRCA1/2* PV carriers we utilized patient-derived gastric organoids (PDGOs) generated from gastric biopsies acquired during an upper endoscopic procedure. Using PDGOs we compare the number of organoids formed, growth, and morphology between *BRCA1* and *BRCA2* PV carriers as well as those from patients without a known mutation. This work intersects with several different fields, including gastroenterology, genetics, and microbiology. The goal of this work is to identify a mechanistic avenue to further explore in future studies.

@@ -7,4 +7,4 @@ The overarching goal of this project is to explore potential mechanisms for an i
 Using PDGOs we look at differences in the number of organoids formed, growth, and morphology between PDGOs generated from BRCA1 and BRCA2 PV carriers as well as compared to PDGOs derived from patients without a known gene mutation.
 
 
-This repo contains an .html and .qmd file of my final project
+This repo contains an .html and .qmd file of my final project. I had no prior coding experience before this class. Any and all comments or suggestions are welcome!
